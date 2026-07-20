@@ -1,16 +1,19 @@
-## Hi there 👋
+💫 About Me:
 
-<!--
-**LordMaruhan/LordMaruhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Привіт! Я початковий Frontend-розробник, який активно занурюється у світ веб-технологій.
+🛠 Працюю з HTML5, CSS3/SCSS та вже впевнено крокую у вивченні JavaScript, щоб оживляти інтерфейси та додавати їм логіку.
+🎨 Перетворюю макети з Figma на адаптивні, чисті та кросбраузерні верстки.
+🚀 Постійно навчаюся новому, прокачую свої навички, пишу код і публікую свої перші пет-проєкти на GitHub.
+🎯 Моя ціль - розвинутися у сильного професійного Frontend-розробника, створювати круті продукти та працювати у сфері IT! 💡
+🌐 Socials:
 
-Here are some ideas to get you started:
+Instagram [LinkedIn](https://linkedin.com/in/lord maruhan) email
+💻 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5 JavaScript CSS3
+📊 GitHub Stats:
+
+
+
+
+
